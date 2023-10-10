@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey, I'm Cryzis.
 
-<!--
-**Cryzis/Cryzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 Python enthusiast who codes odd projects.
+- 🎮 Mid-Tier Minecraft plugin developer using Java.
+- 📚 Currently learning Kotlin.
+- 🤖 I make Discord bots for people in JavaScript and Python.
+- 🚀 Backend coder in Java.
+- 📖 I like Creating APIs with Flask in Python.
+
+
+## Contact
+
+- 📧 Email: [cryzis@cryzis.uk](mailto:cryzis@cryzis.uk)
+- 🐦 Twitter: [@ItsCryzis](https://twitter.com/itscryzis)
+- 💬 Discord: cryzis.
+
